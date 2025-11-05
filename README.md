@@ -2,6 +2,10 @@
 
 This repository provides a **hands-on notebook series** for evaluating deep learning architectures for **precipitation nowcasting over Latin America**. The workflow demonstrates end-to-end steps — from loading model outputs to generating categorical verification metrics and visual diagnostic plots.
 
+**Authors:**
+- Adriano P. Almeida (adriano.almeida@inpe.br)
+- Alan J. P. Calheiros (alan.calheiros@inpe.br)
+
 ---
 
 ## 📘 Overview
